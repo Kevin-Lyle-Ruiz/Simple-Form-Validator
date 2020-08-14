@@ -16,7 +16,11 @@ body {
 
 h1 {
 	text-align: center;
-	margin: 10vh;
+	margin-top: 10vh;
+}
+
+h3 {
+	text-align: center;
 }
 
 .content {
